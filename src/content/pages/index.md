@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Alisher Sadikov
+tagline: Software Developer
+featuredImage: /assets/alisher-6.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+He builds software to solve problems, based in Kansas City. Working as Senior Software Engineer at ParentSquare, Inc.
