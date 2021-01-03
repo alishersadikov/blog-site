@@ -3,6 +3,4 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
-* [GitHub](https://github.com/alishersadikov)
-* [LinkedIn](https://www.linkedin.com/in/alishersadikov/)
-* Email: asadikov.dev@gmail.com
+Follow or connect with me on [LinkedIn](https://www.linkedin.com/in/alishersadikov/) or [GitHub](https://github.com/alishersadikov)[](https://www.linkedin.com/in/alishersadikov/). Also you can shoot me a message below.
