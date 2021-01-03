@@ -1,53 +1,21 @@
 ---
 template: blog-post
-title: Book Shelf
-slug: /book-shelf
-date: 2019-07-10T00:00:00.000Z
+title: Open source experiments as a junior developer
+slug: /open-source
+date: 2017-03-01 19:00
 description: sdasd
-featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
+featuredImage: /assets/open-source.jpg
 ---
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
+I have built a few toy applications with Ruby/Rails, deployed some of them to Heroku/VPS, and am hopeful that one day those apps will be exposed to real users, instead of hiding and only being touched by the test suite occasionally. However, I am ashamed to admit that I tend to ignore one fact: most of my work if not all of it was enabled by other open source apps, tools and libraries.
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** *And yet you haven't said what I told you to say!* How can any of us trust you?
+The typical scenario in my projects: I start out creating objects in my test suite and as it gets bigger it also gets slower. No worries, that is what ‘factory girl’ or ‘fabricator’ are for. I add one of them to my Gemfile, configure it and start fabricating data to speed up my tests. I might complain about how hard it is to setup factories for complicated models with nested relationships, but I never really think about what happens under the hood. I move on. Soon I get tired of even typing strings for factories, especially if there is uniqueness on model attributes. No worries, I get the ‘faker’ gem and dynamically add the index to the end of the string. It will create unique and fake names, urls, addresses etc. This can go on forever, but you know what I am getting at…
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+The way I look at open source and its importance started to change when I was required to actually contribute to an open source project while in Turing School of Software and Design. I have to admit that Jeff Casimir, the executive director and instructor, kind of sugarcoated what we were about to experience on the front of open source software, by making it sound like a really cool and relatively easy thing to do. As a believer in open source software I still think it is a great concept. But maybe not as easy as it seems, at least for developers who are starting out.
 
-## It doesn't look so shiny to me.
+So anyway, I created a list of open source projects I felt like contributing to — some of them more realistic than the others. I decided to start with the easiest one — OSS Board, a platform that connects developers and open-source maintainers. Namely, I had to rebuild a view that displays a developer user’s repositories, which was being limited to 100 repos due to Github API pagination. My task was to display all repositories regardless of the number. It does not get easier than that, does it? I was planning to spend between 1–2 hours and started working one evening. Since I am a trained Rails dev, it is my comfort zone and after glancing at it I was sure it was a Rails project. When I cloned it down though, I noticed the folder structure was a little different. I ran ‘rake db:test:prepare’ in order to run ‘rspec’ — no luck! I got a weird error message which contained the word ‘Hanami’, googled it and found out it was a Japanese flower. Then searched based on the full error message and realized it could also mean a light-weight and performant Ruby framework. Their docs be found here, which I had to dig to just set up the local environment.
 
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+At this point I had already spent about two hours, but was able to run the tests! 422 tests for a small application, which was great, I thought. There were a lot of JavaScript tests as well. It took me less time to actually build/change the functionality than setting things up. Then I ran the tests, and guess what 16 existing tests that were not testing that view directly, were failing. Apparently, I had introduced some things that broke the other tests. This was a painful phase — trying to understand what was failing and why. I still could not fix some of those tests, and had to contact the owner of the repo. I was told to revert the VCR cassettes as those remaining tests that were failing were dependent on them. I had updated the cassettes because the interaction of the app with the Github API was changed, and I had to make sure the tests for that view expect the new behavior. Since I kind of put some of those other tests under microscope, I got to know the format and style of the test suite and used that knowledge while writing my own tests.
 
-![]()
+Finally, I opened a pull request with my code and another one to update the ‘contributing’ section of their documentation. I just did not want the other contributors not familiar with Hanami to spend extra time on setting things up locally. I also did not want them to delete the cassettes!
 
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
-
-### Daylight and everything.
-
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
-
-* Fry! Stay back! He's too powerful!
-* Look, last night was a mistake.
-* Please, Don-Bot… look into your hard drive, and open your mercy file!
-
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
-
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
-
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
-
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
-
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
-
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
-
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
-
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
-
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
-
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+This, in a nutshell, is my first (and definitely not the last) experience with trying to contribute to open source. I am glad that I am reminded to give back to the open source community, or at least to try. I also want to thank all open source contributors, especially the ones who contributed to tools I have used. I might not know you personally, but the spirit of your code (if not also the code itself) lives in my projects…
