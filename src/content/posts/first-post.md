@@ -2,7 +2,7 @@
 template: blog-post
 title: Open source experiments as a junior developer
 slug: /open-source
-date: 2017-03-01 19:00
+date: 2017-01-28 19:00
 description: open source post
 featuredImage: /assets/open-source.jpg
 ---
