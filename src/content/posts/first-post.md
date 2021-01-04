@@ -3,7 +3,7 @@ template: blog-post
 title: Open source experiments as a junior developer
 slug: /open-source
 date: 2017-03-01 19:00
-description: sdasd
+description: open source post
 featuredImage: /assets/open-source.jpg
 ---
 I have built a few toy applications with Ruby/Rails, deployed some of them to Heroku/VPS, and am hopeful that one day those apps will be exposed to real users, instead of hiding and only being touched by the test suite occasionally. However, I am ashamed to admit that I tend to ignore one fact: most of my work if not all of it was enabled by other open source apps, tools and libraries.
