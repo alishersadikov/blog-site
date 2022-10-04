@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-I﻿ specialize in building software to solve business problems. Based out of Kansas City and currently working for as a Senior Software Engineer at WellSky.
+I﻿ specialize in building software to solve business problems. Based out of Kansas City and currently working as a Senior Software Engineer at WellSky.
