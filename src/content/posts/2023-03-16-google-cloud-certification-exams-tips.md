@@ -8,8 +8,6 @@ description: "This post provides some recommendations for taking the Google
   proctored exam. "
 featuredImage: /assets/mitchell-luo-xqjovx-x5-k-unsplash.jpg
 ---
-
-
 ## Introduction
 
 We are migrating to Google Cloud at work and there has been encouragement to get certified. I had prior experience with both AWS and its (onsite) certification exams, but this was the first time I am exposed to Google Cloud. 
@@ -72,7 +70,7 @@ At this level, unlike the previous levels, there is some branching based on the 
 
 I have not taken this one - not there yet. But I just ended up being a big fan of Joe Lowery and his teaching methodology. So I look forward to taking this course when I am ready. 
 
-#﻿## Preparation process 
+\#﻿## Preparation process 
 I basically took some of those courses above and watched more video courses recommended by the platform. Then I took the relevant practice tests and took the actual exam as soon as I got 80-90% of the practice tests right. 
 
 # Overview of the online proctored exam
@@ -91,31 +89,22 @@ Here is some registration and scheduling info from Google:[Registration and Sche
 ### During the online proctored exam
 
 * You are not allowed to get any support: digital/hard copy resources, another human being etc. 
+* I did not even use my regular work from home desk. Just set a plastic picnic desk in the middle of the room away from the walls, shelves etc.
+* Not allowed to take breaks and cannot have a water bottle on the desk. I was asked to put away my driver's license outside of my reach after showing it to the camera. 
+* The webcam is on for the entire duration of the exam. 
+*  I think there was a human proctor on the other side, but I did not hear or see the proctor. We communicated through the chat window the entire time but it was very interactive. 
+* I was asked to capture each wall in the room for about 3 seconds and also the desk I am sitting at to ensure nothing extra was there - I just had a mouse next to my laptop. 
 
-* I did not even use my regular work from home desk. Just set a plastic picnic desk in the middle of the room away from the walls, shelves etc.  
+### Exam contents - I believe this applies to both associate and professional exams
 
-*﻿ Not allowed to take breaks and cannot have a water bottle on the desk. I was asked to put away my driver's license outside of my reach after showing it to the camera. 
+* 50 multiple choice questions. You can mark them for review and come back to them later. 
+* The duration is 2 hours but you can finish early. 
+* A Cloud Guru did a good job of imitating the real exam in the practice ones. 
 
-*﻿ The webcam is on for the entire duration of the exam. 
+### After the exam
 
-*﻿ I think there was a human proctor on the other side, but I did not hear or see the proctor. We communicated through the chat window the entire time but it was very interactive. 
+* Kryterion gives a PASS/FAIL result right away 
+* I was told my file would be sent to Google for final review and Google would reach out with official outcome
+* I got an email from Google in 2 days after the exam. Too bad there was no free swag :(. But I heard Pro level exams come with swag. 
 
-*﻿ I was asked to capture each wall in the room for about 3 seconds and also the desk I am sitting at to ensure nothing extra was there - I just had a mouse next to my laptop. 
-
-
-#﻿## Exam contents - I believe this applies to both associate and professional exams
-
-*﻿ 50 multiple choice questions. You can mark them for review and come back to them later. 
-
-*﻿ The duration is 2 hours but you can finish early. 
-
-*﻿ A Cloud Guru did a good job of imitating the real exam in the practice ones. 
-
-#﻿## After the exam
-
-*﻿ I was given a PASS result by Kryterion right away 
-
-*﻿ I was told my file will be sent to Google for review and I would get an official emails with the outcome via email. 
-
-*﻿ I got an email from Google in 2 days after the exam. 
-
+H﻿ope this info helps and good luck in your cloud certification exams!
