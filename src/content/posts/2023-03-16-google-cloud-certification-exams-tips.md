@@ -40,23 +40,23 @@ You can just search on the Cloud Guru platform by title to locate these courses.
 
 ### General introduction
 
-#### Google Cloud Essentials by Joseph Lowery (~12 hours)
+##### Google Cloud Essentials by Joseph Lowery (~12 hours)
 
 I have taken this one. This is a more basic course but a great introduction. It has an amazing Lucid charts interactive diagram you can reference async, which kind of replaces the need to take your own notes (I still take my own notes).  There is an abundance of lab exercises.  
 
 ### Level 1 - Foundational certification
 
-#### Google Cloud Certified Cloud Digital Leader by Joseph Lowery (~20 hours)
+##### Google Cloud Certified Cloud Digital Leader by Joseph Lowery (~20 hours)
 
 I have not taken this one.  It came up while researching the courses for a colleague. I am a big fan of this instructor and will post another course by him down below. 
 
 ### Level 2 - Associate certification level
 
-#### Google Certified Associate Cloud Engineer by Broadus Palmer  (~17 hours)
+##### Google Certified Associate Cloud Engineer by Broadus Palmer  (~17 hours)
 
 I have taken this one. Very structured and organized. Plenty of lab exercises and 3 practice exams! This one is not  intended to include IAM concepts. 
 
-#### Google Cloud Identify and Access Management (IAM) Deep Dive by Matthew Ulasien (~8 hours)
+##### Google Cloud Identify and Access Management (IAM) Deep Dive by Matthew Ulasien (~8 hours)
 
 I have taken this one.  Absolutely recommend it if you are planning to take the Associate Cloud Engineer exam. To me it seemed like Google Cloud IAM slightly differed from AWS IAM. 
 
@@ -64,7 +64,7 @@ I have taken this one.  Absolutely recommend it if you are planning to take the 
 
 At this level, unlike the previous levels, there is some branching based on the speciality of your choice. I am leanings towards Architect or Developer at this time. 
 
-#### Google Certified Professional Cloud Architect by Joseph Lowery (~29 hours)
+##### Google Certified Professional Cloud Architect by Joseph Lowery (~29 hours)
 
 I have not taken this one - not there yet. But I just ended up being a big fan of Joe Lowery and his teaching methodology. So I look forward to taking this course when I am ready. 
 
@@ -72,11 +72,11 @@ I have not taken this one - not there yet. But I just ended up being a big fan o
 
 I basically took some of those courses above and watched more video courses recommended by the platform. Then I took the relevant practice tests and took the actual exam as soon as I got 80-90% of the practice tests right. 
 
-# Overview of the online proctored exam
+## Overview of the online proctored exam
 
 Here is some registration and scheduling info from Google: [Registration and Scheduling - Cloud Certification Help](https://support.google.com/cloud-certification/answer/9907651?hl=en). Seems like Google outsources these exams to a company called Kryterion. 
 
-#### Before the exam
+### Before the exam
 
 * It varies by the exam, but if needed, you should be able to reschedule your exam with a proper notice. It was 24 hours for online proctored exams for the Associate Cloud Engineer.
 * Make sure you install their secure browser way ahead of the exam.
