@@ -110,4 +110,4 @@ Here is some registration and scheduling info from Google: [Registration and Sch
 
 I﻿ hope this info helps and good luck in your cloud certification exams! All opinions are my own and also keep in mind, this ecosystem keeps constantly changing so both Google Cloud exams and the proctoring details can change rapidly. 
 
-I﻿n conclusion, (associate level) certifications are good in getting a comprehensive surface-level understanding of the topics. But really, nothing replaces real, hands-on, production-level experience you gain while implementing certain things in the cloud environments.
+I﻿n conclusion, (associate level) certifications are good in getting comprehensive surface-level understanding of the topics. But really, nothing replaces real, hands-on, production-level experience you gain while implementing certain things in the cloud environments.
