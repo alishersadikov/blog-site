@@ -68,7 +68,7 @@ At this level, unlike the previous levels, there is some branching based on the 
 
 I have not taken this one - not there yet. But I just ended up being a big fan of Joe Lowery and his teaching methodology. So I look forward to taking this course when I am ready. 
 
-### Preparation process 
+### Preparation process
 
 I basically took some of those courses above and watched more video courses recommended by the platform. Then I took the relevant practice tests and took the actual exam as soon as I got 80-90% of the practice tests right. 
 
@@ -91,12 +91,14 @@ Here is some registration and scheduling info from Google: [Registration and Sch
 * I did not even use my regular work from home desk. I just set up a plastic picnic desk in the middle of the room away from the walls, shelves etc.
 * Not allowed to take breaks and cannot have a water bottle on the desk. I was asked to put away my driver's license outside of my reach after showing it to the camera. 
 * The webcam is on for the entire duration of the exam. 
-*  I think there was a human proctor on the other side, but I did not hear or see the proctor. We communicated through the chat window the entire time but it was very interactive. 
+* I think there was a human proctor on the other side, but I did not hear or see the proctor. We communicated through the chat window the entire time but it was very interactive. 
 * I was asked to capture each wall in the room for about 3 seconds and also the desk I am sitting at to ensure nothing extra was there - I just had a mouse next to my laptop. 
 
 ### Exam contents - I believe this applies to both associate and professional exams
 
 * 50 multiple choice questions. You can mark them for review and come back to them later. 
+* Y﻿ou do not have to get all 50 questions right. I think getting 70% right is sufficient, but I could not find a Google Cloud source to confirm that. 
+* I﻿f the initial questions are hard, just move on the next ones and come back to the hard ones.
 * The duration is 2 hours but you can finish early. 
 * A Cloud Guru did a good job of imitating the real exam in the practice ones. 
 
@@ -106,4 +108,6 @@ Here is some registration and scheduling info from Google: [Registration and Sch
 * I was told my file would be sent to Google for final review and Google would reach out with the official outcome.
 * I got an email from Google in 2 days after the exam. Too bad there was no free swag... But I heard Pro level exams come with swag.
 
-H﻿ope this info helps and good luck in your cloud certification exams!
+I﻿ hope this info helps and good luck in your cloud certification exams! All opinions are my own and also keep in mind, this ecosystem keeps constantly changing so both Google Cloud exams and the proctoring details can change rapidly. 
+
+I﻿n conclusion, (associate level) certifications are good in getting a comprehensive surface-level understanding of the topics. But really, nothing replaces real, hands-on, production-level experience you gain while implementing certain things in the cloud environments.
