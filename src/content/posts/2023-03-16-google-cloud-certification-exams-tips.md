@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Google Cloud certification exam tips
+title: Google Cloud certification proctored exam tips
 slug: proctored-google-cloud-exam
 date: 2023-03-14 22:44
 description: "This post provides some recommendations for taking the Google
@@ -10,11 +10,9 @@ featuredImage: /assets/mitchell-luo-xqjovx-x5-k-unsplash.jpg
 ---
 ## Introduction
 
-We are migrating to Google Cloud at work and there has been encouragement to get certified. I had prior experience with both AWS and its (onsite) certification exams, but this was the first time I am exposed to Google Cloud. 
+We are migrating to Google Cloud at work and there has been encouragement to get certified. I had prior experience with both AWS and its (onsite) certification exams, but this was the first time I was exposed to Google Cloud. 
 
-In this post I will try walk you through the straightforward preparation process I followed.  I will make some recommendations on A Cloud Guru courses that you could take for different levels of Google Cloud exams. 
-
-In addition, I will try to give you an idea of how the online proctored exam was administered - there were some noteworthy nuances for me.  
+I will try to walk you through the straightforward preparation process I followed, and I will make some recommendations on A Cloud Guru courses that you could take for different levels of Google Cloud exams. Finally, I will try to give you an idea of how the online proctored exam was administered - there were some noteworthy nuances for me.  
 
 My motivation with this  blog post is to answer some questions on these topics in hopes of helping my fellow developers in taking the related exams. 
 
@@ -30,7 +28,7 @@ I took the associate level exam, but will try to recommend the courses on the ot
 
 ## Learning platforms
 
-I was a long time fan of Linux Academy (they were headquartered right here in KC Metro). Using its content a few years ago made my AWS exam a breeze. Since then this company was acquired by [A Cloud Guru](https://acloudguru.com/) and now the latter is part of Pluralsight? Hard to follow M&A these days… Either way, I was told that the A Cloud Guru courses (with labs) are now available on Pluralsight as well, so might be able to locate the courses I list below, on that platform. 
+I was a long time fan of Linux Academy (they were headquartered right here in the KC Metro). Using its content a few years ago made my AWS exam a breeze. Since then this company was acquired by [A Cloud Guru](https://acloudguru.com/) and now the latter is part of Pluralsight? Hard to follow M&A these days… Either way, I was told that the A Cloud Guru courses (with labs) are now available on Pluralsight as well, so you might be able to locate the courses I list below, on that platform. 
 
 Originally, the aspect of Linux Academy that attracted me the most was the availability of lab exercises in the environments that were provisioned on-demand. Compared to dry video and text courses (accompanied by constant yawning), those labs made a huge difference in my understanding of the covered material and solidifying it. 
 
@@ -70,26 +68,27 @@ At this level, unlike the previous levels, there is some branching based on the 
 
 I have not taken this one - not there yet. But I just ended up being a big fan of Joe Lowery and his teaching methodology. So I look forward to taking this course when I am ready. 
 
-\#﻿## Preparation process 
+### Preparation process 
+
 I basically took some of those courses above and watched more video courses recommended by the platform. Then I took the relevant practice tests and took the actual exam as soon as I got 80-90% of the practice tests right. 
 
 # Overview of the online proctored exam
 
-Here is some registration and scheduling info from Google:[Registration and Scheduling - Cloud Certification Help](https://support.google.com/cloud-certification/answer/9907651?hl=en). Seems like Google outsources these exams to a company called Kryterion. 
+Here is some registration and scheduling info from Google: [Registration and Scheduling - Cloud Certification Help](https://support.google.com/cloud-certification/answer/9907651?hl=en). Seems like Google outsources these exams to a company called Kryterion. 
 
 #### Before the exam
 
-* It varies by the exam, but you should be able reschedule your exam with a proper notice. It was 24 hours for online proctored exams for the Associate Cloud Engineer
-* Make sure you install their secure browser way ahead of the exam
-* It is possible you will be asked to enter biometric information in Webassessor, such as taking your photo through the webcam with white background. I tried to fill it out but I was to do it again right before the exam. 
-* It is recommended that you take the exam on your personal laptop or the one you have admin privileges for. Most work computer do not meet this criteria 
+* It varies by the exam, but if needed, you should be able to reschedule your exam with a proper notice. It was 24 hours for online proctored exams for the Associate Cloud Engineer.
+* Make sure you install their secure browser way ahead of the exam.
+* It is possible you will be asked to enter biometric information in Webassessor, such as taking your photo through the webcam with white background. I tried to do that but I was asked to go through that again at the time of the exam. 
+* It is recommended that you take the exam on your personal laptop or the one you have admin privileges for. Most work computers do not meet this requirement.
 * The secure browser has the ability to detect the processes running in the background and will shut them down. I would just close out of everything that you think could be running on your machine. 
 * You will not be able to find the `Launch` button for the exam until 10 minutes before the exam (in Webassessor). So just sit back and relax. 
 
 ### During the online proctored exam
 
 * You are not allowed to get any support: digital/hard copy resources, another human being etc. 
-* I did not even use my regular work from home desk. Just set a plastic picnic desk in the middle of the room away from the walls, shelves etc.
+* I did not even use my regular work from home desk. I just set up a plastic picnic desk in the middle of the room away from the walls, shelves etc.
 * Not allowed to take breaks and cannot have a water bottle on the desk. I was asked to put away my driver's license outside of my reach after showing it to the camera. 
 * The webcam is on for the entire duration of the exam. 
 *  I think there was a human proctor on the other side, but I did not hear or see the proctor. We communicated through the chat window the entire time but it was very interactive. 
@@ -103,8 +102,8 @@ Here is some registration and scheduling info from Google:[Registration and Sche
 
 ### After the exam
 
-* Kryterion gives a PASS/FAIL result right away 
-* I was told my file would be sent to Google for final review and Google would reach out with official outcome
-* I got an email from Google in 2 days after the exam. Too bad there was no free swag :(. But I heard Pro level exams come with swag. 
+* Kryterion gives a PASS/FAIL result right away. 
+* I was told my file would be sent to Google for final review and Google would reach out with the official outcome.
+* I got an email from Google in 2 days after the exam. Too bad there was no free swag... But I heard Pro level exams come with swag.
 
 H﻿ope this info helps and good luck in your cloud certification exams!
