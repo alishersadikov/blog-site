@@ -6,6 +6,7 @@ date: 2023-03-14 22:44
 description: "This post provides some recommendations for taking the Google
   Cloud Associate Cloud Engineer exam and presents some details of the online
   proctored exam. "
+featuredImage: /assets/mitchell-luo-xqjovx-x5-k-unsplash.jpg
 ---
 
 
