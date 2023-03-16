@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Google Cloud certification exams tips
+title: Google Cloud certification exam tips
 slug: proctored-google-cloud-exam
 date: 2023-03-14 22:44
 description: "This post provides some recommendations for taking the Google
